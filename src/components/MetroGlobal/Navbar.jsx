@@ -129,9 +129,9 @@ const Navbar = () => {
                     <a href='tel:2349120245727'>
                       <FaPhone size={40} color='#25d366 ' />
                     </a>
-                    <Link to={"https:/wa.me/2349120245727"}>
+                    <a href={"https:/wa.me/2349120245727"}>
                       <IoLogoWhatsapp size={40} color='#25d366 ' />
-                    </Link>
+                    </a>
                   </Flex>
                 </Dialog.Body>
               </Dialog.Content>
@@ -179,9 +179,9 @@ const Navbar = () => {
                   <a href='tel:2349120245727'>
                     <FaPhone size={40} color='#25d366 ' />
                   </a>
-                  <Link to={"https:/wa.me/2349120245727"}>
+                  <a href={"https:/wa.me/2349120245727"}>
                     <IoLogoWhatsapp size={40} color='#25d366 ' />
-                  </Link>
+                  </a>
                 </Flex>
               </Dialog.Body>
             </Dialog.Content>
