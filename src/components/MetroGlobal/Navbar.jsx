@@ -94,7 +94,7 @@ const Navbar = () => {
           <Dialog.Trigger asChild>
             <Button
               bg={"#EF7826"}
-              display={{ smDown: "none", smToLg: "none", lgTo2xl: "flex" }}
+              display={{ smDown: "flex", smToLg: "flex", lgTo2xl: "none" }}
               color={"#f4f4f4"}
               rounded={"3xl"}
               px={3}
